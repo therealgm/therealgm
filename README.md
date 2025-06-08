@@ -67,7 +67,7 @@
 ###
 
 <div align="left">
-  <a href="hashawanthjai@gmail.com" target="_blank">
+  <a href="mailto:hashawanthjai@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/hashwanth-y-a4503b1b6/" target="_blank">
@@ -82,7 +82,7 @@
   <a href="https://x.com/hashwanthjai" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   </a>
-  <a href="https://discord.com/channels/.grandmaster101" target="_blank">
+  <a href="discordapp.com/users/.grandmaster101" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
   <a href="https://linktr.ee/hashwanth" target="_blank">
