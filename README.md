@@ -50,7 +50,7 @@
 
 ###
 
-<h6 align="left">Here are some of my noteworthy projects:<br><br>1. YogaMate</h6>
+<h5 align="left">Here are some of my noteworthy projects:<br><br>1. YogaMate</h5>
 
 ###
 
