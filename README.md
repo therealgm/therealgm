@@ -50,7 +50,7 @@
 
 ###
 
-<h5 align="left">Here are some of my noteworthy projects:<br><br>1. YogaMate</h5>
+<h6 align="left">Here are some of my noteworthy projects:<br><br>1. YogaMate</h6>
 
 ###
 
@@ -58,7 +58,7 @@
 
 ###
 
-<h5 align="left">* Full stack Development in iOS<br>* Swift</h5>
+<h6 align="left">* Full stack Development in iOS<br>* Swift</h6>
 
 ###
 
@@ -73,23 +73,8 @@
   <a href="https://www.linkedin.com/in/hashwanth-y-a4503b1b6/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="https://www.hackerrank.com/profile/hy2157" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="hackerrank logo"  />
-  </a>
-  <a href="https://www.instagram.com/justt.achu/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-  <a href="https://x.com/hashwanthjai" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  </a>
-  <a href="discordapp.com/users/.grandmaster101" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
   <a href="https://linktr.ee/hashwanth" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linktree/default.svg" width="52" height="40" alt="linktree logo"  />
-  </a>
-  <a href="http://wa.me/917299794785" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
   </a>
 </div>
 
