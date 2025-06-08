@@ -58,7 +58,7 @@
 
 ###
 
-<h6 align="left">* Full stack Development in iOS<br>* Swift</h6>
+<h5 align="left">* Full stack Development in iOS<br>* Swift</h5>
 
 ###
 
