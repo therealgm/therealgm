@@ -50,7 +50,7 @@
 
 ###
 
-<h6 align="left">Here are some of my noteworthy projects:<br><br>1. YogaMate</h6>
+<h5 align="left">Here are some of my noteworthy projects:<br><br>1. YogaMate</h5>
 
 ###
 
@@ -58,7 +58,7 @@
 
 ###
 
-<h6 align="left">* Full stack Development in iOS<br>* Swift</h6>
+<h5 align="left">* Full stack Development in iOS<br>* Swift</h5>
 
 ###
 
