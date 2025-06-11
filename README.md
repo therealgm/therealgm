@@ -8,10 +8,7 @@
 
 ### 
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&color=FF0000&center=true&vCenter=true&width=700&height=50&lines=iOS Application Developer;Django+%7C+Flask+%7C+FastAPI+%7C+Redis;Next.js+%7C+React.js+%7C+Tailwind+CSS+%7C+TypeScript;AWS+%7C+MySQL+%7C+PostgreSQL+%7C+Docker;Building+Scalable+and+Efficient+Web+Apps" />
-
-</p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=iOS+Application+Devolper;iOS+%7C+Mac+OS+%7C+Watch+OS" alt="Typing SVG" /></a>
 
 ###
 
