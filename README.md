@@ -9,7 +9,7 @@
 ### 
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=189514&vCenter=true&width=435&lines=iOS+Application+Devolper;iOS+%7C+Mac+OS+%7C+Watch+OS" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&lines=iOS+Application+Devolper;iOS+%7C+Mac+OS+%7C+Watch+OS" alt="Typing SVG" /></a>
 </p>
 
 ###
