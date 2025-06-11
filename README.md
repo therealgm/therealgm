@@ -91,8 +91,8 @@
 ###
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=therealgm&show_icons=true&theme=dark&title_color=189514&icon_color=FF0000&text_color=FFFFFF&bg_color=000000" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=therealgm&theme=black-ice&stroke=189514&background=000000&ring=FF0000&fire=FF0000" />
+  <img src="https://github-readme-stats.vercel.app/api?username=therealgm&show_icons=true&theme=dark&title_color=189514&icon_color=189514&text_color=FFFFFF&bg_color=000000" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=therealgm&theme=black-ice&stroke=189514&background=000000&ring=189514&fire=FF0000" />
 </p>
 
 ###
