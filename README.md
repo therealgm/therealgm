@@ -6,6 +6,13 @@
   <img height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDF5M2o0aXo5YWplcGVla25hbzcycTE5b2Q1ZDVnMnNlMzkzdTdlYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MC6eSuC3yypCU/giphy.gif"  />
 </div>
 
+### 
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&color=FF0000&center=true&vCenter=true&width=700&height=50&lines=iOS Application Developer;Django+%7C+Flask+%7C+FastAPI+%7C+Redis;Next.js+%7C+React.js+%7C+Tailwind+CSS+%7C+TypeScript;AWS+%7C+MySQL+%7C+PostgreSQL+%7C+Docker;Building+Scalable+and+Efficient+Web+Apps" />
+
+</p>
+
 ###
 
 <h4 align="left">I believe any problem can be resolved through technology!</h4>
